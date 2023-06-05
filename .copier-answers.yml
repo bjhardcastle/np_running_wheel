@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier
+_commit: fde9f65
+_src_path: gh:bjhardcastle/copier-pdm
+author_email: ben.hardcastle@alleninstitute.org
+author_fullname: Ben Hardcastle
+author_username: bjhardcastle
+copyright_date: '2023'
+copyright_holder: Ben Hardcastle
+copyright_holder_email: ben.hardcastle@alleninstitute.org
+copyright_license: MIT License
+project_description: Tools for getting running wheel data from Mindscope Neuropixels
+    experiments.
+project_name: np_running_wheel
+python_package_command_line_name: np_running_wheel
+python_package_distribution_name: np-running-wheel
+python_package_import_name: np_running_wheel
+repository_name: np_running_wheel
+repository_namespace: bjhardcastle
+repository_provider: github.com
+
